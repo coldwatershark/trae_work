@@ -1,4 +1,6 @@
-# TRAE Work Demo
+# trae_work
+
+VibeCoding 开发记录。
 
 这是一个最小静态网页项目示例。
 
